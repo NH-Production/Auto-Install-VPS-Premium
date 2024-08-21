@@ -8,6 +8,6 @@ apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl 
 - Debian 10 (Recommended)
 - Ubuntu 22.04
 
-# Contact us
+# Contact Us
 - Telegram : https://t.me/nhproduction7
 - Whatsapp : 082120240604 
