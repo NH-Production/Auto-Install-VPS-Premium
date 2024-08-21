@@ -10,4 +10,5 @@ apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl 
 - Ubuntu 22.04
 
 # Contact us
-
+- Telegram : https://t.me/nhproduction7
+- Whatsapp : 0821 2024 0604 
